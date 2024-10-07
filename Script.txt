@@ -1,0 +1,376 @@
+story intro ('drawn-ish, doodles'):
+
+	Narrator: 
+"In this world, people dread falling asleep because of a mysterious disease called the Spell that emerged 60 years ago. Each winter, it forces some into a deep sleep, pulling them into a Nightmare. Spells first terrifying challenge where waking up is not guaranteed."
+	//
+"Sunless, also known as Lost from Light, was one of the rare individuals who received his true name after just his first Nightmare, earning him the title of Sleeper. He was then forced to enter the Dream Realm for the first time, finding himself in a previously unknown place called the Forgotten Shore."
+	//
+"After over a year of relentless struggles, battles, and inevitable growth in swordsmanship, using his affinity for shadows, he returned to the Awake world as one of the strongest Awakened of his generation."
+	//
+"Now, he seeks to become even stronger. But in this world, nothing comes for free. What challenge has fate prepared for him next?"
+
+
+anim start:
+
+/418/
+	//Sunny near the shipwreck
+	//Sunny went into breach in the breaches in its hull
+	//Then dove into shadows to be safe
+		//To show off the shadow step ability i let him go in it then into a room of some sort
+	//Sunny didn't know what the purpose of this room was, yet he was observant, he saw a lot of random debris and noticed thick brown vines covering the walls and ground
+
+Sunny_M: "Oh, crap. Here we go again. 
+				...Those are alive."
+
+		//with a subtle shudder/anxious look he stared at the 
+at the strange reddish-brown vines
+
+	//out of nowhere strange feeling appeared in his lungs, he sighted, took piece of cloth from his pack, and wrapped it tightly around the lower part of his face
+
+Sunny_M: "Blood Weave to he rescue! Let's see what's inside."
+
+/419/
+	//after only few steps something gleamed on the floor in front of him
+	//bending down, Sunny picked up the small object
+	//realized that is was Noctis Coin
+	//put it in his bag and went on his way
+	**//his suspicious growing when he saw all the vines and felt the murky air becoming much stronger. The warm breeze that blew through the wreck at rhythmic intervals reminded him of slow breathing of a slumbering giant. 
+
+Sunny_M: "Let's, uh… not do anything to awake that thing"
+	
+	//wrapped both his shadows around his body
+	//went on with exploring the wreck
+	//stepped on moss, swayed
+
+Sunny_L: "Argh..." //felt pain
+
+	//feeling weak and weird while the poison entered his blood stream
+		//blood weave anim-visualization as its clearing his blood of it
+
+Narrator: "Sunny felt weak after inhaling the poison...With Blood Weave constantly destroying the poison that gets into his body, he'll be fine as long as he's able to endure the pain though"
+
+		//sunny just had to endure the pain
+		//limping, weird walk, etc.
+		
+	...//quick scene of him picking up coins (one camera angle of him getting closer to it while picking up the coins, 'tp-ing' over one and other) on his way
+
+	//approached a wall with gate
+	//staring at it he felt the shadows behind the gate (main storage room in the ship)
+
+Narrator: "Sunny couldn’t sense any abominations lurking behind the large gate, but he remained cautious—there could always be something better at hiding than he was at looking."
+
+	//felt big shadow (wormvine-soldane, dont care)
+
+Sunny_M "Again, let's not awake that thing."
+
+	//he said as he jumped up, grabbed the edges of the hole above him and climbed onto the exterior of the ship's hull
+	//walked on the sloping hull of the ship, being careful not to step on any more vines
+	//now he was approaching the shattered bow of the ship
+	//crawled back inside and landed softly on carpet of moss
+	//several golden coins were gleaming on the ground, with one more laying further down the dark corridor
+	//sunny cautiously gathered them
+		//(anxious, jittering, looking around)
+	//moved deeper into the wreck
+	//not long into it, found himself in the ships compartment, ships treasury
+		//it just felt better, no moss, no vines, no poisonous spores in the air
+	//smiled while standing in front of the door
+
+Sunny_L: "...Eureka"
+
+/420/
+	//felt that there was nothing moving behind the door
+		//wasn't entirely convinced 
+	//sent one of his shadow in from under the door
+
+Sunny_M: "How do I even open this thing?"
+	
+	//he said as he looked through his shadows eyes
+		//shadow pov of the room
+	//he smiled
+	//stepped through his shadow and appeared in the treasure room
+	//waited for few then studied the three chests standing in the middle of the room
+		//all three were open, 2 stood empty
+		//third...
+		//his eyes widened in shock
+	//as he looked on the third chest
+		//big enough to fit an adult man
+		//filled to the brim with heavy gold coins
+
+Sunny_M: "Thousands...there are thousands of them"
+
+		//his heart skipped a beat, and he swayed slighty
+
+Narrator: "In front of him was a way to get instantly stronger, with these...Sunny would be able to make one or two whole new shadow cores...Probably"
+
+Sunny_M: "This...this can't be true"
+
+Narrator: "Sunny thought that this is way too easy... ...It wasn't, really. ...Almost dying while fighting monster that perfectly copied him and his abilities. Walking through darkness and inhaling paralyzing poison. ...No doubt he would've died if it weren't for his legacy of a daemon flowing through his veins"
+
+		//Gulped, sight was so beautiful his eyes gleamed witch avarice
+
+Sunny_M: "Don't mind if I do"
+
+	//took several steps forward, approaching the chest	
+
+Sunny_M: "Gold is heavy though, how do I carry all these coins back?"
+
+	//he reached for the coins, then stopped suddenly
+		//hand hovered just outside the chest's opening
+
+Sunny_L: "Hmm..."
+		//he frowned
+	//
+
+	//Narrator: "What"s wrong? There is no danger inside the treasury. Nor was there anything moving oustide of it."
+
+Sunny_M: "The Chain Worm... ...He had the coins in his stomach but wood and metal strips as well. But WHY was it mortally wounded?"
+
+		//POV scene: he looks at the two normal chests, were in normal condition with no part missing, then pan to the bigger one with the gold inside, quick pan to its corners, then stopping on one of the corners which seamed new, as in regenerated skin...
+
+	//suddenly the chest lunged at him
+
+/421/
+Sunny_M: "What..." //quick what
+	
+	//Sunny recoiled (tried to flich his hand out of the monsters way)
+		//golden coins moved revealing rows of triangular teeth
+	//falling guillotine trying to bite his arm off
+	//with quick reaction pulled up cruel sight with his other hand 
+		//put it in between of the teeth and his forearm
+			//just shattered his bones :)
+
+Sunny_L: *painful scream*
+
+	//caught in the mimics maw, with the CS laying flat on top of his arm
+		//the lower teeth were slowly sinking into the vambrace of Puppeteer's Shroud
+
+Sunny_M: "What the hell is this thing?!"
+
+	//coins falling out of the monsters mouth, the maw pressing more and more on his hand
+
+Sunny_L: "B-bastard let go of me." //aggitated and (angry OR little scared)
+
+	//forcing sunny to fall to his knees
+	//suddenly something wet and coarse touched his hand
+		//long and wide tounge emerged from beneath the golden coins
+	//then the tounge moved toward his neck
+
+Sunny_L: "What the Spell?!"
+
+	//second shadow wrapping around him
+	//the mimic didn't even budge, its bite being too overbearing
+
+Sunny_M: "Argh! Crap!" //angrily in pain
+	
+	//the tongue nearing his neck, he...
+	//growled
+	//turned Cruel Sight into spear, at the same time activated Dark Mirror enchantment
+	//embuing the siver blade with soul-destroying power
+
+	//the memory extended into the creature's mouth
+
+Mimic: "shriek" //painful
+
+	//as it felt the pain Sunny got his arm out
+
+Sunny_L: "Yes" //triumphantly
+	
+	//before he could do anything else
+	//suddenly the chest swayed, rose into the air, revealing it's body
+		//more coins falling to the floor
+	//then it towered above sunny, tongue dripping with saliva
+
+Sunny_L: "Oh, Curse it a... (all)"
+
+	//meanwhile saying that the monster kicked him in the sternum/chest
+		//power of train
+	//sunnys body shot back
+	//smashed through the reinforced door that headed to the treasure room
+	//rolled into the corridor outside
+
+Sunny_M: "*Groaned*" //the air in his lungs was knocked out of his lungs tho
+
+	//noticing the MM falling on all fours
+	//launching itself forward
+	//lid of the chest rising to get another bite
+	//the lid close in the place where sunny stood
+	
+	//sunny shadow stepped away
+	//appearing 10m further into the corridor
+
+	//chest being confused, hovered in the air for a couple of seconds
+	//then slowly turned to face him
+	
+	//he sighed, tried to stand up, failed
+	
+Sunny_L: "Come here, you bastard" //little crazed, deceitfully, in pain
+
+	//used cruel sight to help himself stand up
+	//then pointed the spear at the creature
+
+	//the chest tilted to the side
+
+Sunny_M: "This bastard is mocking me... how can chest even grin"
+
+MMimic_L: *giggle* //high pitched grin, from somewhere inside it
+
+Sunny_M: "Funny, is it?"
+
+	//he smiled
+	//lowered the spear slowly-ish
+	//thrust it into one of the vines near his foot
+
+Sunny_M: "Not so funny now, huh?"
+
+	//meanwhile the creatures giggle stopped
+	//it froze and stared at Sunny, stunned
+	//trembled
+
+	//then the entire ship trembled, too
+	
+/422/
+
+	//the creature stared at him, mortified
+	//its tongue retreating into its mouth
+
+Sunny_L: "Goodness gracious. How clumsy of me." //sarcastically, maliciously
+
+	//the monster gave him hateful look
+	//looked at the doors of the treasury
+	//halted, and looked at Sunny
+		//i need to display the greed it has for him
+
+	//suddenly the creature turned back to take a quick glance at Sunny
+	//lunged at him
+
+	//sunny shadow stepped, to the stop the monster jumped from
+
+	//then he looked back at the corridor
+	//watched in horror as the whole corridor started to move
+	//vines started to crawl toward the confused mimi
+	//long thorns appearing on their surface
+
+	//biting into the mimic
+	//him ripping them with talons, biting, etc
+	
+	//as he watched from the point the doors were at
+
+Sunny_M: "Crap, crap, crap..." //fearfully
+
+	//he started to go backwards, slowly
+	//into the treasury
+		//no vines, moss, only 2 chests and golden coins scattered on the ground
+	//as he hesitated
+	//mimic screeched
+	//then suddenly appeared in the doorway
+	
+	//before sunny even fully summoned the Cruel Sight
+	//the abomination was already over his head jumping in the middle of the room
+	//then ran toward the breach in the ship
+
+	//sunny saw everything, him being confused as it escaped the wreck
+
+Sunny_L: "...Huh"
+
+	//looked at the coins on the ground
+	//and without any care for the incoming vines started to pickup the coins
+
+Sunny_M: "If these are real, then those inside the chest are real as well ...they have to be"
+
+	//as he continued picking up the last coins
+	//his focus changed to the shadow he hid inside the mimic's one
+		//split first person pov one eye from the mimic's shadow
+		//one still focusing on the coin picking
+
+		//or just the - pov one eye from the mimic's shadow
+
+Sunny_L: "Where are you running, bastard!"
+
+	//he said, as he threw his backpack with coins onto his back
+	//with cruel sight in his hand
+	//dove into the shadows
+	//appearing in the monsters shadow
+	//turning the cruel sight into it's sword version
+	//then even before the mimic could react
+	//he sliced it's thigh, the blade going all the way through
+		//blood
+
+	//it painfully shrieked
+	//then the ground moved shaked
+	//vines went through the moss (on the ground) and wrapped around the monsters body
+	
+	//one though, slid around Sunnys leg instead
+
+/423/
+
+Sunny_M: "Not good..."
+
+	//sunny hacked at it with the Cruel Sight
+	//his eyes widened
+	//at the same time - the vine shredded the leather boot of the Puppeteer's Shroud
+	//before the vine saw off his foot
+	//he augmented cruel sight with both of his shadows
+	//the short sword hacked through the vine
+
+	//more were coming towards him
+	//he turned to a shadow
+	//then watched as the mimic stood up on its's all fours
+	//dashed toward the edge of the island and tore the vines that were holding it down
+
+Sunny_L: "*hissed* Crap!" //annoyed
+Sunny_M: "Why couldn't it just lay still and die"
+
+	//he escaped shadows then went after the abomination
+	//just few seconds after he went out of the shadow
+	//he saw the mimic jump off of the island
+
+Sunny_L: "What the hell!" //
+
+	//Sunny reached the edge a few seconds later
+	//looked down
+	//saw a heavenly chain
+		//10km, rusted, stone structure collapsed, old
+	//then the monster landed directly on the chain
+
+Sunny_L: "...Crap" //startled
+
+	//dashed away, swaying as it went
+	//sometimes falling on all fours, then lauching itself into the art	
+	//jumping from one link to another
+	//he hesitated
+
+Narrator: "Sunny's prize was slipping away. The island ahead had to be Twisted Rock, with no land beyond and its heavenly chain on the verge of collapse. He wasn't sure what to do."
+
+		//small island at the end of the rusted chain - Twisted Rock
+	//he moved towards the edge still thinking
+	//vines coming towards him
+
+Narrator: "Risk it all or retreat and lose the treasure forever? Sunny had to decide now."
+	
+
+Sunny_M: "...Fine. Let's get those coins!"
+
+	//summond Dark Wing and dove into the empty abbyss of the skies
+
+Narrator: "This wasn't greed or logic driven choice. It was intuition. Twisted Rock seemd to pull him in, a feeling stronger than anything he'd experienced before. His [Fated] Attribute and Weaver's eyes let him sense the strings of fate, and this time, something about the island felt crucial to his destiny."
+
+/424/
+
+	//After falling/gliding for some time he landed on the chain
+	//instantly going into shadow form under it
+
+Sunny_M: "How do i kill that thing though? Broken hand is one thing, but with almost no shadow essence left, this will be tricky"
+	
+	//after a while
+	//he caught up with the chest
+	//continued to follow in shadows
+	//the monster running still as fast as it could
+	//jumping from link to link
+	//as he and the chest were halfway to the small island
+	//they both heard something
+	//the chains rattled
+
+	//he froze for a moment, glanced at the goal of this journey
+	//Twisted Rock had entered it's ascent phase, and now was rising quickly into the sky
+
+Sunny: "Curse it all!"

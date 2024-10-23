@@ -1,13 +1,23 @@
+Anotace projektu CZE:
+
+Udělat animovaný mini film podle mnou vybrané části z Shadow Slave Web Novely kde hlavní postava Sunless bojuje s monstrem jménem Mordant Mimic. Ohledně technické stránky, kamerové záběry budou primárně konceptem *filmové* z dálky, z blízka, atd. Taky bych rád zkusil zakomponovat pohled z první osoby. Chci to zpracovat dobře/správně kinematograficky. Se stylizací a vizuály budu experimentovat v průběhu vývoje, abych vše stihl.
+
+Project annotation ENG:
+
+To make an animated mini-movie based on my chosen part of the Shadow Slave Web Novella where the main character Sunless fights a monster named Mordant Mimic. On the technical side, the camera shots will be primarily a *movie* concept from a distance, close-ups, etc. I'd also like to try to incorporate a first-person view. I want to handle it well/correctly cinematically. I'll experiment with stylization and visuals during development to get everything done.
+
 story intro ('drawn-ish, doodles'):
 
 	Narrator: 
-"In this world, people dread falling asleep because of a mysterious disease called the Spell that emerged 60 years ago. Each winter, it forces some into a deep sleep, pulling them into a Nightmare. Spells first terrifying challenge where waking up is not guaranteed."
+"In this world, people dread falling asleep because of a mysterious disease called the Spell that emerged 60 years ago. Each winter, it forces some into a deep sleep, pulling them into a Nightmare. Spells first terrifying challenge where waking up is not guaranteed." //20sec
 	//
-"Sunless, also known as Lost from Light, was one of the rare individuals who received his true name after just his first Nightmare, earning him the title of Sleeper. He was then forced to enter the Dream Realm for the first time, finding himself in a previously unknown place called the Forgotten Shore."
+"Sunless, also known as Lost from Light, was one of the rare individuals who received his true name after just his first Nightmare, earning him the title of Sleeper. He was then forced to enter the Dream Realm for the first time, finding himself in a previously unknown place called the Forgotten Shore." //15-20sec
 	//
-"After over a year of relentless struggles, battles, and inevitable growth in swordsmanship, using his affinity for shadows, he returned to the Awake world as one of the strongest Awakened of his generation."
+"After over a year of relentless struggles, battles, and inevitable growth in swordsmanship, using his affinity for shadows, he returned to the Awake world as one of the strongest Awakened of his generation." //15sec
 	//
-"Now, he seeks to become even stronger. But in this world, nothing comes for free. What challenge has fate prepared for him next?"
+"Now, he seeks to become even stronger. But in this world, nothing comes for free. What challenge has fate prepared for him next?" //15-20sec
+
+// around 1min
 
 
 anim start:
@@ -47,7 +57,7 @@ Sunny_L: "Argh..." //felt pain
 	//feeling weak and weird while the poison entered his blood stream
 		//blood weave anim-visualization as its clearing his blood of it
 
-Narrator: "Sunny felt weak after inhaling the poison...With Blood Weave constantly destroying the poison that gets into his body, he'll be fine as long as he's able to endure the pain though"
+Narrator: "Sunny felt weak after inhaling the poison...With Blood Weave constantly destroying the poison that gets into his body, he'll be fine as long as he's able to endure the pain though" //10sec
 
 		//sunny just had to endure the pain
 		//limping, weird walk, etc.
@@ -57,7 +67,7 @@ Narrator: "Sunny felt weak after inhaling the poison...With Blood Weave constant
 	//approached a wall with gate
 	//staring at it he felt the shadows behind the gate (main storage room in the ship)
 
-Narrator: "Sunny couldn’t sense any abominations lurking behind the large gate, but he remained cautious—there could always be something better at hiding than he was at looking."
+Narrator: "Sunny couldn’t sense any abominations lurking behind the large gate, but he remained cautious—there could always be something better at hiding than he was at looking." //10sec
 
 	//felt big shadow (wormvine-soldane, dont care)
 
@@ -330,6 +340,8 @@ Sunny_L: "What the hell!" //
 	//looked down
 	//saw a heavenly chain
 		//10km, rusted, stone structure collapsed, old
+		//saw chain worms eating, being around the chain
+
 	//then the monster landed directly on the chain
 
 Sunny_L: "...Crap" //startled
@@ -339,25 +351,28 @@ Sunny_L: "...Crap" //startled
 	//jumping from one link to another
 	//he hesitated
 
-Narrator: "Sunny's prize was slipping away. The island ahead had to be Twisted Rock, with no land beyond and its heavenly chain on the verge of collapse. He wasn't sure what to do."
+Narrator: "Sunny's prize was slipping away. The island ahead had to be Twisted Rock, with no land beyond and its heavenly chain on the verge of collapse. He wasn't sure what to do." //10sec
 
 		//small island at the end of the rusted chain - Twisted Rock
 	//he moved towards the edge still thinking
+	//maybe_ watching the mimic tearing one chain worm apart, then tossing it into the Sky bellow
 	//vines coming towards him
 
-Narrator: "Risk it all or retreat and lose the treasure forever? Sunny had to decide now."
+Narrator: "Risk it all or retreat and lose the treasure forever? Sunny had to decide now." //5sec
 	
 
 Sunny_M: "...Fine. Let's get those coins!"
 
-	//summond Dark Wing and dove into the empty abbyss of the skies
+	//summoned Dark Wing and dove into the empty abyss of the skies
 
-Narrator: "This wasn't greed or logic driven choice. It was intuition. Twisted Rock seemd to pull him in, a feeling stronger than anything he'd experienced before. His [Fated] Attribute and Weaver's eyes let him sense the strings of fate, and this time, something about the island felt crucial to his destiny."
+Narrator: "This wasn't greed or logic driven choice. It was intuition. Twisted Rock seemed to pull him in, a feeling stronger than anything he'd experienced before. His [Fated] Attribute and Weaver's eyes let him sense the strings of fate, and this time, something about the island felt crucial to his destiny" //15-20sec
 
 /424/
 
 	//After falling/gliding for some time he landed on the chain
 	//instantly going into shadow form under it
+
+		//him not being noticed by any chain worms while riding the chain in shadow form
 
 Sunny_M: "How do i kill that thing though? Broken hand is one thing, but with almost no shadow essence left, this will be tricky"
 	
@@ -365,6 +380,10 @@ Sunny_M: "How do i kill that thing though? Broken hand is one thing, but with al
 	//he caught up with the chest
 	//continued to follow in shadows
 	//the monster running still as fast as it could
+
+		//fighting more chain worms
+			//like 2 clips of it eating or tearing apart the worms
+	
 	//jumping from link to link
 	//as he and the chest were halfway to the small island
 	//they both heard something
@@ -372,5 +391,316 @@ Sunny_M: "How do i kill that thing though? Broken hand is one thing, but with al
 
 	//he froze for a moment, glanced at the goal of this journey
 	//Twisted Rock had entered it's ascent phase, and now was rising quickly into the sky
+		//still in shadow form
 
-Sunny: "Curse it all!"
+Sunny_M: "Curse it all!" //somber
+
+	//continued to chase after the running/jumping monster
+	//try to visualize shadow essence, running low
+
+Sunny_M: "Damn it! ...I'm almost out of essence" //mad
+
+	/as he continued to pursue the mimic and island
+	//the angle of chain still increasing
+
+Sunny_M: "...Was my intuition wrong?" //sorrowful, confused
+
+	//soon, the two of them emerged from the darkness of the Sky Below
+	//as soon as the sun started to hit the chains
+
+Sunny_M: "I might be troubled now..." //cautiously
+		//maybe_ scrap
+
+	//he had to move one of his 2 shadows forward then shadow step into it
+	//again and again
+	//to not fall behind the monster
+
+Narrator: "With almost no essence, a broken arm, no bursts of speed, strength and stamina, and no way to use Shadow Step, this clash was going to be tough." //8-10sec
+
+	//looking at the chain worms dead, mangled bodies behind somewhere
+
+Sunny_M: "I'm getting these coins, ....even if it kills me!" //
+
+/425/
+
+	//mimic drew close to the island
+	//crouched near the vertical stone wall of the island
+	//giggled
+	//shot upward
+	//jumping 20m+ high
+	//its talons piercing the weathered stone
+	//then nimbly climbing up
+	//disappearing from Sunnys view
+		//cam dynamic, closing up on the mimic as its climbing
+		//semi-circling the mimic as its climbing at the same time
+
+		//then pan on the chain again
+
+	//Sunny emerging from shadows on the rusted chain
+	//chain swaying as the island rose higher and higher
+	//looked up on the edge of the island
+	
+	//summoned Prowling Thorn
+	//cut one of the straps off his backpack
+	//tied it around his neck to create makeshift sling
+	//for his broken arm
+	//then activated Dark Wing
+	//used the Prowling Thorn
+	//used it to fly up the overhanging slope of the stone island
+
+	//used the gliding of Dark Wing and the throw and pulling technique with Prowling Thorn
+	
+	//as he pulled himself over the edge of the island
+		//being in air above the island
+		//before he could land smoothly 
+	//the crushing pushed him down on the ground
+
+	//crouched mimic heard his fall
+	//froze
+	//turned around and faced him
+	//sunny scowled
+
+	//mimic stared at Sunny
+	//opened its maw
+	//swallowed the remains of another chain worm he found, whole
+		//half of the body already in mouth
+		//tail and arm out
+	//licked the blood off its sharp teeth
+	//giggled, hatefully
+
+	//cold smile appeared on Sunny's lips
+
+Sunny_L: "Right back at you, bastard." //cold, hateful
+
+	//the mimic rose to its feet (was on all fours beforehand)
+	//towering above sunny
+
+	//sunny changing cruel sight to its short sword base
+	//the sword gleamed
+	
+	//heavenly chains rattled bellow
+	//twisted rock continued to ascend
+
+	//sunnys cold smile disappeared
+	//staring at the monster
+	//felt a bit of fear
+		//camera view of sunnys back in front then the mimics front
+		//stand off
+
+Narrator: "Despite the suicidal odds, Sunny remained confident. The Blood Blossom amulet around his neck enhanced his powers, memories and shadows as enemies bled. Second, his polished technique and experience against larger foes gave him an edge. Most importantly, the monster’s massive size was a disadvantage on the Chained Isles, where being as small as Sunny was key due to the Crushing." //20-25sec //maybe redo in future
+
+	//Sunny feeling the Crushing pressing on him more and more
+	//raised his sword
+	//aimed it at the monster
+
+Sunny_L: "Who's gonna break first..."
+
+/426/
+
+	//the mimic shifted its weight,	
+	//lunged forward with giggle
+		//terrifying, powerful, telegraphed though
+	//sunny diving under the arm
+	//narrowly avoiding being torn apart
+	//lashed out with the Cruel Sight
+	//blade biting into abdomen of mimic
+	//piercing tough skin just under mimics ribs
+	//continued with momentum
+	//spun
+	//already behind enemy
+
+	//at the same time
+	//mimic pressed both hands on ground then kicked back with both legs
+
+Narrator: "He knew how the monster fights from watching from afar, every move, every thing it done." //5sec
+	//flashbacks of the mimic ripping chain worm in half, and one clip of mimic biting down on one
+"...He also studied the creatures tendencies and likes. Also where it's most vulnerable, the body" //6-7sec
+	//as he avoided the kick and again sliced at the monsters body
+	//it bleeding more 
+		//visualization of the Blood Blossom
+			//raging with red in his eyes and/or the amulet flashing vibrant red
+"Sunny's natural perceptiveness, sharpened by practicing Shadow Dance, allowed him to quickly learn about the fiend." //5-7sec
+
+	//the mimic  bending its joints in the oposite directions
+	//on all fours
+	//the lid of the chest serving as a lower jaw
+
+	//sunny jumped down under the attacking fiend
+	//striking the monsters leg again, leaving a deep scar
+	//at the same time, sharp pain radiated through sunnys entire body
+		//bones in his arm scraping against eachother
+
+Sunny_M: "That is going to hurt..."
+
+	//as the fiend pivoted
+	//snapped one of its limbs in his direction
+
+	//sunny sent both his shadows to streghten the Puppeteer's Shroud
+
+	//the talons slashed across sunnys torso
+	//slid away, without piercing it
+
+	//the still powerful strike still have thrown sunny back
+	//landing on his legs
+		//as he had prepared
+	//supressed groan
+	//brandinshed the Cruel Sight once again
+		//camera at sunny
+		//rattling sound
+		
+		//camera switch on chain worms eating the chain
+	//the heavenly chain rattled again as the island rose
+	//the Crushing becoming more and more of a problem for sunny
+
+		//camera switch to sunnys face, sweat, blood
+	//sunny on the verge on passing out
+
+Sunny_L: "Argh! Curse you!" //hateful, exhausted
+
+	//he staggered back
+	//used the shaft of Cruel Sight to keep standing straight
+	//smirk came up on his face
+
+		//camera on mimic
+	//mimic not looking good either
+	//the fight was longer than both of them expected
+
+	//sunny bleeding from several wounds
+	//mimics body looked like it went through a meat grinder
+	//its tongue, hanging lifelessly over the edge of the chest
+
+	//mimic giggled again
+		//tired, confused, with hatred in eyes
+		//red gleaming in camera
+	//going forward
+	//trying to swipe at sunny with one hand
+	//as it did, missed
+	//crashed on the ground instead
+	//lying there motionlessly
+	//let out discouraged growl
+	
+	//sunny not sure if he'll be able to take another step
+	//extending Cruel Sight to its full length
+	//thrusting it forward
+	//piercing the skin of the fiend
+	//black blood seeping out
+
+Sunny_M: "Good, this is good....bleed to death you piece of crap!"
+
+	//blood blossom becoming a bit stronger
+		//visualization - the amulet flashing red
+	
+	//the fiend tried to dodge the attack, failed
+	//trying to stand up, failed
+		//the Crushing's pressure visualization as it's trying to stand/get up
+
+	//sunny smiled
+
+Sunny_M: "Got you..."
+
+	//retrieving his spear, thrusting it again
+	//again
+	//and again
+		//few times, 8+
+
+Sunny_L: "Die,... just die already..." //desperately, tired
+
+	//the fiend giggled mockingly
+	//suddenly gathered its limbs
+	//limbs disappearing into the bottom of the chest
+	
+	//few seconds later
+	//only the indestructible chest standing now
+	
+	//tip of the spear scraping against the wood
+	//not even leaving scratches
+
+	//sunny dumbfounded
+	//fell to his knees as the power of the Crushing increased even further
+
+Sunny_L: "No,... Come back here, you coward"
+
+	//his hands trembled
+	//lifting the spear
+	//trying to damage the chest
+	
+	//the lid of the chest trembled
+	//then rose a bit
+	//hateful giggle emerged from its mouth
+
+	//at the same time
+	//sunny tossed a polished crimson gem
+	//that appeared in his hand toward the chest
+	//Broken Oath flew inside the abomination's mouth
+
+	//the lid snapped close
+	//pressed down by the Crushing
+	//muffled sound resounded from within the chest
+	//the lid couldn't opened again
+
+	//sunny falling to the ground
+	//crawling out of the range of Broken Oath
+	//then he grinned
+
+Sunny_L: "Who's laughing now? Try to swallow that, you bastard..."
+
+/427/
+
+		//camera pov of both laying on the ground, only few meters away from eachother, then pan on the chest, losing color, getting rusted, then it switches to look at sunny, him laying on the hard stone, looking at the sky, struggling to breathe
+			//his armor soaked in blood
+			//his broken arm pressed tightly against his chest
+			//his face deadly pale
+				//visualization of Blood Weave, he cant bleed out
+		//as the blood weave pulses inside of his heart - vizualization
+
+Narrator: "Sunny knew he wouldn’t bleed out, thanks to Blood Weave, but his broken arm and battered body needed attention. The Crushing made things worse; until Twisted Rock fully expanded, he risked being crushed. His two shadows eased the pressure, but with low essence, even diving into the shadows to flee was a risky option."
+	//15-20sec
+
+		//just panning from different angles of the island, both being on the ground
+		//nothing just waiting for 10-20sec of just sunny breathing
+			//make it so we too wait for the mimic to die of the soul damage
+
+Sunny_M: "Oh god, how much longer will this take? Are the soul-destroying powers of the Broken Oath that weak, or is the chest immune?"
+
+Sunny_M: "Why even am I here? What makes this island so special? Why did the strings of fate pointed me to this? Why did my intuition react so strongly? There is nothing here."
+
+	//mimic made a sound
+	//first crack appeared, black blood spilling
+	//another one...
+
+Sunny_M: "Finally..."
+
+	//as another cracks appeared
+	//more blood pooling under it
+	
+	//sunny enduring pain
+	//the Crushing still becoming stronger
+
+	//the creature trembled after more cracks appeared
+	//giggled one last time, hateful
+	//then grew absolutely still
+
+	//sunny grinned
+
+	//it was dead
+
+Sunny_M: "Finally... all those coins... are mine"
+
+	//As the heavenly chain rattled and groaned, the voice of the Spell resounded above the hellish stone island. Its words sounded like music to his ears... 
+
+Speel: "[You have slain a Fallen Devil, Mordant Mimic.]"
+
+Speel: "[Your shadow grows stronger.]"
+
+Speel: "[...You have received a Memory.]"
+
+
+
+screen blacks out
+
+	//few seconds of nothing
+	//black screen
+
+Prince of nothing: "...Why is it so dark?"
+
+

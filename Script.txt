@@ -1,7 +1,3 @@
-Anotace projektu CZE:
-
-Udělat animovaný mini film podle mnou vybrané části z Shadow Slave Web Novely kde hlavní postava Sunless bojuje s monstrem jménem Mordant Mimic. Ohledně technické stránky, kamerové záběry budou primárně konceptem *filmové* z dálky, z blízka, atd. Taky bych rád zkusil zakomponovat pohled z první osoby. Chci to zpracovat dobře/správně kinematograficky. Se stylizací a vizuály budu experimentovat v průběhu vývoje, abych vše stihl.
-
 Project annotation ENG:
 
 To make an animated mini-movie based on my chosen part of the Shadow Slave Web Novella where the main character Sunless fights a monster named Mordant Mimic. On the technical side, the camera shots will be primarily a *movie* concept from a distance, close-ups, etc. I'd also like to try to incorporate a first-person view. I want to handle it well/correctly cinematically. I'll experiment with stylization and visuals during development to get everything done.

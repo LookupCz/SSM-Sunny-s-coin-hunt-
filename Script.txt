@@ -1,7 +1,3 @@
-Project annotation ENG:
-
-To make an animated mini-movie based on my chosen part of the Shadow Slave Web Novella where the main character Sunless fights a monster named Mordant Mimic. On the technical side, the camera shots will be primarily a *movie* concept from a distance, close-ups, etc. I'd also like to try to incorporate a first-person view. I want to handle it well/correctly cinematically. I'll experiment with stylization and visuals during development to get everything done.
-
 story intro ('drawn-ish, doodles'):
 
 	Narrator: 
@@ -684,11 +680,11 @@ Sunny_M: "Finally... all those coins... are mine"
 
 	//As the heavenly chain rattled and groaned, the voice of the Spell resounded above the hellish stone island. Its words sounded like music to his ears... 
 
-Speel: "[You have slain a Fallen Devil, Mordant Mimic.]"
+Spell: "[You have slain a Fallen Devil, Mordant Mimic.]"
 
-Speel: "[Your shadow grows stronger.]"
+Spell: "[Your shadow grows stronger.]"
 
-Speel: "[...You have received a Memory.]"
+Spell: "[...You have received a Memory.]"
 
 
 
@@ -698,5 +694,4 @@ screen blacks out
 	//black screen
 
 Prince of nothing: "...Why is it so dark?"
-
 
